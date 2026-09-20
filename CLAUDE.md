@@ -8,9 +8,16 @@ This file provides context and conventions for AI assistants (Claude and others)
 
 **Project**: Cianb
 **Repository**: gabrielmelo04-CIANB/Cianb
-**Status**: New / in initial setup
+**Status**: Initial Streamlit app
 
-This repository is currently being initialized. This CLAUDE.md will be updated as the project grows to reflect the actual codebase structure, conventions, and workflows.
+This repository contains a simple Streamlit page (`app.py`). This CLAUDE.md will be updated as the project grows to reflect the actual codebase structure, conventions, and workflows.
+
+### Running the app
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 
